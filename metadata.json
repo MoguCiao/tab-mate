@@ -1,0 +1,6 @@
+{
+  "name": "TabMate - 分账拍档",
+  "description": "本地记账与多人分账看板：支持AA均分、按份额与自定义分摊，成员确认流转，支出趋势与分类统计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
