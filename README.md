@@ -164,6 +164,6 @@ docs/images/          # README 真实界面截图
 
 <div align="center">
 
-**一起花的钱，一起记明白。**
+**记账拍档，账单助手**
 
 </div>
