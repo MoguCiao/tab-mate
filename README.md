@@ -91,7 +91,7 @@ npm install
 npm run dev
 ```
 
-打开终端显示的地址，默认是 **http://localhost:3000**。未配置 Supabase 时，直接进入本地示例模式，无需注册。
+打开终端显示的地址，默认是 `http://localhost:3000`。未配置 Supabase 时，直接进入本地示例模式，无需注册。
 
 仓库附带 `pnpm-lock.yaml`，也可以使用 `pnpm install --frozen-lockfile` 和 `pnpm dev` 启动。
 
